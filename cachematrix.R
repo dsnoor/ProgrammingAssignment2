@@ -54,4 +54,3 @@ cacheSolve <- function(myMatrix, ...)
 
   	inverse
 }
-
